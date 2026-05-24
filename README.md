@@ -62,6 +62,16 @@ npm run dev
 
 ---
 
+## Screenshots
+
+### Laptop
+
+<img width="1600" height="774" alt="Anime Dashboard Laptop View" src="https://github.com/user-attachments/assets/25a1031d-838c-45d4-b9b8-4d4a2b89edfc" />
+
+### iPad
+
+<img width="949" height="772" alt="Anime Dashboard iPad View" src="https://github.com/user-attachments/assets/96d893cb-7b7d-4ca5-9f2f-c4cab9c0b698" />
+
 ## Future Improvements
 
 * TanStack Query integration
